@@ -3,3 +3,8 @@
 # the first one, “fields,” refers to a file called
 # “sections/fields.md.”
 aboutme
+projects
+experience
+education
+skills
+certifications
