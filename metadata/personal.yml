@@ -3,7 +3,7 @@
 ############################
 #
 # Required value:
-name: Nikos Tzianas. # full name
+name: Nikos Tzianas, Junior Software Developer @ Vesselbot # full name
 #
 # Optional values: 
 # These can be commented out or deleted.
@@ -12,7 +12,7 @@ date-of-birth: 1995-09-07 # in YYYY-MM-DD format
 citizenship:
 - Greek
 address:
-- Larissa 
+- Greece,Larissa 
 telephone: +0030 69xxxxxxxx
 email: p14tzia@ionio.gr
 twitter: PhpUsing
