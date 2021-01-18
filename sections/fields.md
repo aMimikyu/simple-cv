@@ -1,4 +1,4 @@
-## Fields of Specialization
+## Field Of fields
 
-Ancient relics, imperial theft of cultural patrimony, Grail lore,
-anti-fascism, masculinist archæology, Celtic mythology, Herpetology.
+This is literally just a list of things.
+
