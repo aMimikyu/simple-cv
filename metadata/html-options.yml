@@ -22,9 +22,9 @@ navbar: # comment out this entire section to disable the navbar
   # background-color: "#ff99ff" # This must be in quotes and overrides "background" above.
 html-fonts: # comment out this entire section to use default fonts
   body: # If you want just one custom font for everything, set only this one.
-    type: sans-serif
-    name: Raleway
-    url: https://fonts.googleapis.com/css?family=Raleway
+    type: serif
+    name: Cormorant Garamond
+    url: https://fonts.googleapis.com/css?family=Cormorant+Garamond
   headings:
     type: serif # or sans-serif or monospace
     name: Cormorant Garamond
@@ -49,7 +49,7 @@ keywords:
 - colonial exploitation
 last-modified: true
 meta-title: Simple CV
-canonical-url: "https://muziejus.github.io/simple-cv/" # Change this to your url.
+canonical-url: "https://aMimikyu.github.io/simple-cv/" # Change this to your url.
 date-created: 2018-04-18
 description: >- 
   A Curriculum Vitæ created using the “simple-cv” package,
